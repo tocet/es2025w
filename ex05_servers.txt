@@ -1,0 +1,4 @@
+https://time.now/developer/api/timezone/Europe/Paris
+
+http://api.openweathermap.org/data/2.5/weather?q=Kiel,GE&
+APPID=
